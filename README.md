@@ -1,3 +1,8 @@
+# 3章Railsの課題
+開始
+### 3-6を終えて、難しくなってきたけど面白くなってきました
+
+---
 # REA<!-- DME
 
 This README would normally document whatever steps are necessary to get the
@@ -23,5 +28,3 @@ Things you may want to cover:
 
 * ... -->
 
-# 3章Railsの課題
-開始
